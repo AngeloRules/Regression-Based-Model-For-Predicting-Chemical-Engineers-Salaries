@@ -21,15 +21,6 @@ The project is aimed at providing Chemical Engineering practitioners with inform
 - Interactive Dashboard
 
 
-
-## Screenshots
-
-![Salary Prediction Tab](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/Screenshot%20(6).png)
-![Dashboard Tab](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/Screenshot%20(7).png)
-![Dashboard Tab](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/Screenshot%20(8).png)
-
-
-
 ## Libraries/Technologies
 **Web-Scraping:** Selenium
 
@@ -42,6 +33,15 @@ The project is aimed at providing Chemical Engineering practitioners with inform
 **UI building:** Streamlit
 
 **Deployment:** Heroku
+
+
+## Screenshots
+
+![Salary Prediction Tab](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/Screenshot%20(6).png)
+![Dashboard Tab](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/Screenshot%20(7).png)
+![Dashboard Tab](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/Screenshot%20(8).png)
+
+
 
 
 
