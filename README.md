@@ -34,6 +34,9 @@ The project is aimed at providing Chemical Engineering practitioners with inform
 
 **Deployment:** Heroku
 
+## Web App
+ - [Live Web App](https://dashboard.heroku.com/apps/predictchemsalaries)
+
 
 ## Screenshots
 
