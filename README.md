@@ -98,9 +98,11 @@ Exploratory data analysis was done using pandas, plotly, seaborn and matplotlib.
 - what kinds of industries were popular in each of the states?
 
 Some visuals from the EDA are displayed below:
-(https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/Screenshot%20(12).png?raw=true)
-(https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/Screenshot%20(13).png?raw=true)
-(https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/Screenshot%20(14).png?raw=true)
+![visual](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/Screenshot%20(12).png?raw=true)
+
+![visual](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/Screenshot%20(13).png?raw=true)
+
+![visual](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/Screenshot%20(14).png?raw=true)
 
 
 
