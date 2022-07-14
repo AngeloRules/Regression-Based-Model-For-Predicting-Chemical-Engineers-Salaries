@@ -15,7 +15,7 @@ The data was collected from the web and was done using selenium, a python librar
 
 ## Data Cleaning and Feature Engineering
 
-The data was cleaned using [<img alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" />]
+The data was cleaned using <img alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" />
 
 ## Authors
 
