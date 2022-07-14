@@ -31,7 +31,8 @@ The data was cleaned using the pandas library.
 ## Libraries/Technologies
 **Web-Scraping:** Selenium <img alt="selenium" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" />
 
-**Data Cleaning and Feature Engineering:** Numpy <img alt="Numpy" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" />, Pandas <img alt="Pandas" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" />, Regex, Geopy
+**Data Cleaning and Feature Engineering:** Numpy <img alt="Numpy" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" />, Pandas <img alt="Pandas" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" />, Regex, Geopy <img alt="seaborn" width="30px" src="https://geopy.readthedocs.io/en/stable/_images/logo-wide.png" />
+
 
 **Visualization:** Matplotlib <img alt="seaborn" width="30px" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />
  , Seaborn <img alt="seaborn" width="30px" src="https://github.com/mwaskom/seaborn/raw/master/doc/_static/logo-wide-lightbg.svg" />
@@ -41,7 +42,7 @@ The data was cleaned using the pandas library.
 **Model Building:** Sci-kit Learn <img alt="seaborn" width="30px" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" />
 
 
-**UI building:** Streamlit
+**UI building:** Streamlit <img alt="seaborn" width="30px" src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" /> 
 
 **Deployment:** Heroku <img alt="seaborn" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original.svg" />
 
