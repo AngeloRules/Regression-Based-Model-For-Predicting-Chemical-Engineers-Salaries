@@ -15,7 +15,7 @@ The data was collected from the web and was done using selenium, a python librar
 
 ## Data Cleaning and Feature Engineering
 
-The data was cleaned using 
+The data was cleaned using the pandas library. 
 
 ## Authors
 
@@ -33,15 +33,18 @@ The data was cleaned using
 
 **Data Cleaning and Feature Engineering:** Numpy <img alt="Numpy" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" />, Pandas <img alt="Pandas" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" />, Regex, Geopy
 
-**Visualization:** Matplotlib , Seaborn <img alt="seaborn" width="30px" src="https://github.com/mwaskom/seaborn/raw/master/doc/_static/logo-wide-lightbg.svg" />
-, Plotly
+**Visualization:** Matplotlib <img alt="seaborn" width="30px" src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" />
+ , Seaborn <img alt="seaborn" width="30px" src="https://github.com/mwaskom/seaborn/raw/master/doc/_static/logo-wide-lightbg.svg" />
+, Plotly <img alt="seaborn" width="30px" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-ar21.svg" />
+
 
 **Model Building:** Sci-kit Learn <img alt="seaborn" width="30px" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" />
 
 
 **UI building:** Streamlit
 
-**Deployment:** Heroku
+**Deployment:** Heroku <img alt="seaborn" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/heroku/heroku-original.svg" />
+
 
 ## Web App
  - [Live Web App](https://predictchemsalaries.herokuapp.com/)
