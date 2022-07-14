@@ -7,15 +7,15 @@ The project is aimed at providing Chemical Engineering practitioners with inform
 ## Table of Contents
 
 - [Acknowledgements](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/README.md#acknowledgements)
-- [Data Collection](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/README.md#)
-- [Data Cleaning and Feature Engineering]
-- [Exploratory Data Analysis]
-- [Model Building]
-- [Authors]
-- [Features]
-- [Libraries/Technologies]
-- [Web App]
-- [Screenshots]
+- [Data Collection](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/README.md#data-collection)
+- [Data Cleaning and Feature Engineering](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/README.md#data-cleaning-and-feature-engineering)
+- [Exploratory Data Analysis](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/README.md#exploratory-data-analysis)
+- [Model Building](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/README.md#model-building)
+- [Authors](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/README.md#authors)
+- [Features](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/README.md#features)
+- [Libraries/Technologies](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/README.md#librariestechnologies)
+- [Web App](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/README.md#web-app)
+- [Screenshots](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/README.md#screenshots)
 
 
 
