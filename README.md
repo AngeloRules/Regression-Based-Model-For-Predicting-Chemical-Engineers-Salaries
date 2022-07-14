@@ -29,11 +29,12 @@ The data was cleaned using <img alt="Java" width="30px" src="https://raw.githubu
 
 
 ## Libraries/Technologies
-**Web-Scraping:** Selenium
+**Web-Scraping:** Selenium <img alt="selenium" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" />
 
-**Data Cleaning and Feature Engineering:** Numpy, Pandas, Regex, Geopy
+**Data Cleaning and Feature Engineering:** Numpy <img alt="Numpy" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" />, Pandas <img alt="Pandas" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/pandas-original.svg" />, Regex, Geopy
 
-**Visualization:** Matplotlib, Seaborn, Plotly
+**Visualization:** Matplotlib , Seaborn <img alt="seaborn" width="30px" src="https://github.com/mwaskom/seaborn/raw/master/doc/_static/logo-wide-lightbg.svg" />
+, Plotly
 
 **Model Building:** Sci-kit Learn
 
