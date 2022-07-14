@@ -43,9 +43,12 @@ The tolerance for missing values was set to "any" i.e any rows that contained an
 
 
 The data set originally contained 14 feature as in the screenshot below:
+![Initial Features](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/Screenshot%20(10).png?raw=true)
 
 
 After the process of feature engineering additional features were created bringing the total to 32:
+![After Feature Engineering](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/Screenshot%20(11).png?raw=true)
+
 
 Some important feature include:
 
@@ -95,6 +98,10 @@ Exploratory data analysis was done using pandas, plotly, seaborn and matplotlib.
 - what kinds of industries were popular in each of the states?
 
 Some visuals from the EDA are displayed below:
+(https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/Screenshot%20(12).png?raw=true)
+(https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/Screenshot%20(13).png?raw=true)
+(https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/Screenshot%20(14).png?raw=true)
+
 
 
 ## Model Building
