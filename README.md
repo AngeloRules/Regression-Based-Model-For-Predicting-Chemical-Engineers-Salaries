@@ -36,7 +36,8 @@ The data was cleaned using
 **Visualization:** Matplotlib , Seaborn <img alt="seaborn" width="30px" src="https://github.com/mwaskom/seaborn/raw/master/doc/_static/logo-wide-lightbg.svg" />
 , Plotly
 
-**Model Building:** Sci-kit Learn
+**Model Building:** Sci-kit Learn <img alt="seaborn" width="30px" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" />
+
 
 **UI building:** Streamlit
 
