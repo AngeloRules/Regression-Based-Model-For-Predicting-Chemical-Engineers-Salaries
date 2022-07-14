@@ -6,8 +6,8 @@ The project is aimed at providing Chemical Engineering practitioners with inform
 
 ## Table of Contents
 
-- [Acknowledgements]
-- [Data Collection]
+- [Acknowledgements](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/README.md#acknowledgements)
+- [Data Collection](https://github.com/AngeloRules/Regression-Based-Model-For-Predicting-Chemical-Engineers-Salaries/blob/main/README.md#)
 - [Data Cleaning and Feature Engineering]
 - [Exploratory Data Analysis]
 - [Model Building]
