@@ -57,8 +57,11 @@ Some important feature include:
  *N.B* *It must be however noted that some compromises had to be made concerning the years of experience*
  
    a) a threshold of **25 years** was set because often, time years above that threshold often referred to other things like the company's age. 
+   
    b) Another compromise was excluding all instances of **"18 years"** because these often referred to the minimum age candidates applying for some jobs had to be.
+   
    c) In cases where the pattern search returned more than one instance of a match, the highest matching year was selected.
+   
 - Microsoft Skill: The job description of each of the jobs was parsed to look for instances where microsoft packages like excel, word, powerpoint etc were mentioned.
 
 - Chem Eng: This feature was created by parsing through each of the job descriptions to find out which of the jobs required a degree in chemical engineering.
@@ -104,13 +107,13 @@ The model building process was done using the python library Sci-kit learn.
 - Hyperparameter Tuning: A grid search was carried out to find the optimal set of parameters to improve the model's performance. 
 - Model Traning & Evaluation: After subsequent traning and evaluation the metrics gotten were as follows:
 
-- **Mean Absolute Error** : 7890
+    - **Mean Absolute Error** : 7890
 
-- **Mean Squared Error** : 1.237 * 10e8
+    - **Mean Squared Error** : 1.237 * 10e8
 
-- **Root Mean Squared Error** : 1.112 * 10e4
+    - **Root Mean Squared Error** : 1.112 * 10e4
 
-- **R2 Score** : 0.602
+    - **R2 Score** : 0.602
 
 
 ## Authors
