@@ -3,6 +3,22 @@
 
 The project is aimed at providing Chemical Engineering practitioners with information about the current job market in the USA and to also aid with providing a general idea on salaries they are expected to earn given certain criteria. The data was scraped from the employer rating site [Glassdoor.com](https://glassdoor.com). It features a salary predictor and a dashboard displaying some important information like geographical location of job postings, salary distribution based off different factors etc.
 
+
+## Table of Contents
+
+- [Acknowledgements]
+- [Data Collection]
+- [Data Cleaning and Feature Engineering]
+- [Exploratory Data Analysis]
+- [Model Building]
+- [Authors]
+- [Features]
+- [Libraries/Technologies]
+- [Web App]
+- [Screenshots]
+
+
+
 ## Acknowledgements
 
  - [Omer Sakarya](https://github.com/arapfaik)
