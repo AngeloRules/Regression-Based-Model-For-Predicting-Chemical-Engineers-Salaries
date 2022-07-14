@@ -15,7 +15,7 @@ The data was collected from the web and was done using selenium, a python librar
 
 ## Data Cleaning and Feature Engineering
 
-The data was cleaned using <img alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" />
+The data was cleaned using 
 
 ## Authors
 
@@ -31,7 +31,7 @@ The data was cleaned using <img alt="Java" width="30px" src="https://raw.githubu
 ## Libraries/Technologies
 **Web-Scraping:** Selenium <img alt="selenium" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" />
 
-**Data Cleaning and Feature Engineering:** Numpy <img alt="Numpy" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" />, Pandas <img alt="Pandas" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/pandas-original.svg" />, Regex, Geopy
+**Data Cleaning and Feature Engineering:** Numpy <img alt="Numpy" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/numpy/numpy-original.svg" />, Pandas <img alt="Pandas" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" />, Regex, Geopy
 
 **Visualization:** Matplotlib , Seaborn <img alt="seaborn" width="30px" src="https://github.com/mwaskom/seaborn/raw/master/doc/_static/logo-wide-lightbg.svg" />
 , Plotly
